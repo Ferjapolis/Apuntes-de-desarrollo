@@ -5,6 +5,8 @@ Este repositorio tiene como objetivo recopilar información, tutoriales, herrami
 
 ### [Metodologías Ágiles](/Metodologías%20Ágiles/)
 Las Metodologías Ágiles promueven la colaboración, adaptabilidad y entrega constante de valor, permitiendo responder eficientemente a cambios rápidos en las necesidades de los clientes y los requisitos de los proyectos.
+    - [Kanban](/Metodologías%20Ágiles/Kanban.md)
+    - [User Story](/Metodologías%20Ágiles/User%20Story.md)
 
 ### [Recursos para Desarrolladores](/Recursos%20para%20Desarrolladores.md)
 Listado de aplicaciones, herramientas y recursos para hacer más fácil la creación de código.
