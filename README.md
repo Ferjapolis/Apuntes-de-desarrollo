@@ -41,3 +41,5 @@ Principios de seguridad en el desarrollo de software. Herramientas y prácticas 
 
 ### Arquitectura de Software `<creando>`
 Patrones de diseño arquitectónico. Microservicios vs. Monolitos.
+
+![welcome](https://www.monkeyuser.com/2020/welcome-to-hell/199-welcome-to-hell.png)
