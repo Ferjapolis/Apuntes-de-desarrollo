@@ -35,11 +35,6 @@ En el mundo del desarrollo de software, contar con las herramientas adecuadas es
 | Desarrollo Backend | [Flask](https://flask.palletsprojects.com/en/stable/) | JR/SSR | Microframework para Python. |
 | Desarrollo Backend | [Postman](https://www.postman.com/) | JR/SSR | Herramienta para probar y desarrollar APIs. |
 | Desarrollo Backend | [Swagger](https://swagger.io/) | JR/SSR | Herramientas para diseñar, construir, document |
-| Bases de Datos | [MySQL](https://www.mysql.com/) | JR/SSR | Sistema de gestión de bases de datos relacional. |
-| Bases de Datos | [PostgreSQL](https://www.postgresql.org/) | JR/SSR | Sistema de gestión de bases de datos relacional y objeto-relacional. |
-| Bases de Datos | [MongoDB](https://www.mongodb.com/) | JR/SSR | Base de datos NoSQL orientada a documentos. |
-| Bases de Datos | [SQLite](https://www.sqlite.org/) | JR/SSR | Motor de base de datos SQL embebido. |
-| Bases de Datos | [Redis](https://redis.io/) | SSR | Almacenamiento de estructura de datos en memoria. |
 | DevOps y CI/CD | [Docker](https://www.docker.com/) | JR/SSR | Plataforma para desarrollar, enviar y ejecutar aplicaciones en contenedores. |
 | DevOps y CI/CD | [Kubernetes](https://kubernetes.io/) | SSR | Sistema de orquestación de contenedores. |
 | DevOps y CI/CD | [Jenkins](https://www.jenkins.io/) | JR/SSR | Herramienta de integración continua y entrega continua (CI/CD). |
