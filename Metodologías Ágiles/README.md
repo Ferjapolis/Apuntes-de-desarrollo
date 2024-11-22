@@ -63,9 +63,9 @@ Por otro lado, las Metodologías Ágiles se enfocan en ciclos iterativos y adapt
 ## 2. Los marcos de trabajo más populares
 Las Metodologías Ágiles no son una única receta universal, sino que incluyen varios marcos de trabajo (frameworks) que ayudan a implementar los principios ágiles en equipos y proyectos. Aquí vamos a explorar los marcos más utilizados: Scrum, Kanban y Extreme Programming (XP), analizando sus componentes, procesos y beneficios.
 
-- **[Scrum](/Metodologías%20Ágiles/03%20-%20Scrum/)** es uno de los marcos ágiles más populares y ampliamente adoptados, especialmente en equipos de desarrollo de software. Se centra en trabajar en ciclos cortos llamados sprints, durante los cuales el equipo se compromete a entregar un incremento funcional del producto. Su estructura promueve la transparencia, la inspección y la adaptación.
+- **[Scrum](/Metodologías%20Ágiles/Scrum.md)** es uno de los marcos ágiles más populares y ampliamente adoptados, especialmente en equipos de desarrollo de software. Se centra en trabajar en ciclos cortos llamados sprints, durante los cuales el equipo se compromete a entregar un incremento funcional del producto. Su estructura promueve la transparencia, la inspección y la adaptación.
 
-- **[Kanban](/Metodologías%20Ágiles/01%20-%20Kanban/)** es otro marco de trabajo ágil, que se enfoca en visualizar el flujo de trabajo y limitar la cantidad de trabajo en curso (WIP, por sus siglas en inglés: Work In Progress). Este marco es ideal para equipos que desean mejorar gradualmente sus procesos sin cambios drásticos en su estructura.
+- **[Kanban](/Metodologías%20Ágiles/Kanban.md)** es otro marco de trabajo ágil, que se enfoca en visualizar el flujo de trabajo y limitar la cantidad de trabajo en curso (WIP, por sus siglas en inglés: Work In Progress). Este marco es ideal para equipos que desean mejorar gradualmente sus procesos sin cambios drásticos en su estructura.
 
 - **Extreme Programming (XP)** es un marco ágil enfocado en la calidad del software y en mejorar la capacidad del equipo para responder a cambios rápidamente. Es especialmente útil en proyectos donde los requisitos del cliente cambian con frecuencia y donde la entrega continua de software funcional es clave.
 
@@ -105,7 +105,7 @@ Los equipos multidisciplinarios, que combinan profesionales de diferentes áreas
 ## 4. Herramientas prácticas para implementar agilidad
 Las Metodologías Ágiles no necesitan herramientas sofisticadas ni software caro para funcionar. Muchas de sus utilidades clave están diseñadas para ser simples, fáciles de implementar y centradas en las personas y el flujo de trabajo. Aquí exploraremos una serie de herramientas conceptuales que puedes usar para fomentar la agilidad en tus proyectos y equipos, sin importar si trabajas en tecnología, marketing, educación o cualquier otro sector.
 
-### 4.1. **[User Story](/Metodologías%20Ágiles/02%20-%20User%20Story/)** (Historias de usuario)
+### 4.1. **[User Story](/Metodologías%20Ágiles/User%20Story.md)** (Historias de usuario)
 Es una descripción breve, simple y centrada en el usuario sobre una funcionalidad o característica que se quiere desarrollar. Su propósito principal es responder a la pregunta: "¿Qué valor aporta esta funcionalidad al usuario?". Más que un requerimiento técnico, se enfoca en el objetivo que un usuario quiere alcanzar y en el valor que recibe al hacerlo.
 ![userStory](https://i.pinimg.com/736x/c2/b1/87/c2b187e84d2bf09384da7332e7e91962.jpg)
 
